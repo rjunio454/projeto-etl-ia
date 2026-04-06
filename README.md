@@ -77,7 +77,7 @@ projeto-etl/
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-etl.git
+git clone [https://github.com/rjunio454/projeto-etl-ia.git]
 cd projeto-etl
 ```
 
